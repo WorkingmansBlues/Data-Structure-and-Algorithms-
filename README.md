@@ -1,8 +1,8 @@
 # Data-Structure-and-Algorithms-
 
+
 class Empty(Exception):
     pass
-
 
 class ArrayStack:
     def __init__(self):
