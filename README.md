@@ -1,6 +1,5 @@
 # Data-Structure-and-Algorithms-
 
-
 class Empty(Exception):
     pass
 
